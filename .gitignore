@@ -45,3 +45,4 @@ $RECYCLE.BIN/
 
 # NFS temporary files
 .nfs*
+.claude/settings.local.json
